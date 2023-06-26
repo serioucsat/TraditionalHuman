@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=TraditionalHuman
+Comment=Make TraditionalOk more Human
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=TraditionalHuman
+IconTheme=Humanity
+MetacityTheme=TraditionalHuman
+CursorTheme=TraditionalHuman
