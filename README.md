@@ -7,10 +7,10 @@ Old-school Ubuntu Human theme for MATE
 
 Screenshots:
 
-## UbuntuMATE
+## UbuntuMATE 20.04 Focal Fossa
 
 ![info](https://raw.githubusercontent.com/serioucsat/TraditionalHuman/main/screenshots/screenshot-ubuntumate.png)
 
-## Linux Mint Debian Edition
+## Linux Mint Debian Edition 5 Elsie
 
 ![info](https://raw.githubusercontent.com/serioucsat/TraditionalHuman/main/screenshots/screenshot-lmde.png)
